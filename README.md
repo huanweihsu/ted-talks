@@ -1,7 +1,7 @@
 # ted-talks
 
 ### Dependencies
-1. [Python]https://www.python.org/
+1. [Python](https://www.python.org/)
 2. [youtube-dl](https://rg3.github.io/youtube-dl/)
 3. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
